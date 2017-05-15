@@ -1,6 +1,6 @@
 ![alt](https://arielruff.com/git/the_paper_div/The_Paper_Div_Logo.png)
 # The Paper Div
-### A simple way to make divs look like a real piece of paper!
+### A simple way to make divs look like a real piece of paper using CSS!
 ## [Live Demo](https://arielruff.com/git/the_paper_div/)
 ## Screenshot:
 ![alt](https://arielruff.com/git/the_paper_div/TPDScreen.png)
