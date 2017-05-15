@@ -1,0 +1,89 @@
+/* -----------------------------------------------------
+---------------------CSS FOR PAPER DIV --------------------
+--------------------------------------------------------
+*/
+.blog-paper {
+    width: 90%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    margin-top: 40px;
+    background-color: whitesmoke;
+    box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.31);
+}
+.effect {
+    position: relative;
+}
+.effect:before, .effect:after {
+    position: absolute;
+    z-index: -1;
+    position: absolute;
+    content: "";
+    bottom: 16px;
+    width: 800px;
+    margin-left: auto;
+    width: 98%;
+    display: block;
+    top: 80%;
+    max-width: 800px;
+    box-shadow: 0 15px 10px rgba(41, 41, 41, 0.27);
+    transform: rotate(-1deg);
+}
+.effect:after {
+    transform: rotate(1deg);
+}
+/* -----------------------------------------------------
+---------------------CSS FOR PAPER DIV --------------------
+--------------------------------------------------------
+*/
+body {
+    margin: 0px;
+    background-color: #fff;
+    padding-top: 30px;
+}
+
+.div-text {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    width: 96%;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    text-indent: 70px;
+}
+.div-logo {
+    width: 98%;max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    margin-top: -38px;
+    }
+.div-hr{
+    width: 96%;
+    margin-top: -16px;
+    margin-bottom: 22px;
+}
+.footer {
+    width: 100%;
+    height: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -12px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #525252;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 8px;
+    border-bottom-style: solid;
+    border-bottom-width: 16px;
+    border-bottom-color: #525252;
+}
